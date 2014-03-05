@@ -12,6 +12,4 @@ package com.threevoid.game.tools;
 public class StringUtils {
     public final static String nl = System.getProperty("line.separator");
     public final static String tab = "\t";
-
-
 }

@@ -35,7 +35,4 @@ public class FlatRectangleRenderComponent extends RenderComponent{
         g.fill(r);
         g.setColor(orig);
     }
-
-   
-
 }

@@ -32,6 +32,4 @@ public class RandTool {
         return weights.length - 1;
 
     }
-
-
 }
